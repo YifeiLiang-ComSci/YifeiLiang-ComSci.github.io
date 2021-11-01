@@ -19,11 +19,7 @@
   </head>
 
   <body class="is-preload">
-    <div id="navbar">
-      <a class="active" href="javascript:void(0)">Home</a>
-      <a href="javascript:void(0)">News</a>
-      <a href="javascript:void(0)">Contact</a>
-    </div>
+	
     <!-- Wrapper -->
     <div id="wrapper">
       <!-- Intro -->
@@ -34,11 +30,24 @@
           <p>
             <span class="nowrap">Computer Science Student</span> <br />
             <span class="nowrap">@ Texas A&M University</span> <br />
-            <span class="nowrap"
-              ><a href="https://github.com/YifeiLiang-ComSci" target="_blank"
-                ><i class="fab fa-github" style="font-size: 30px"></i></a
-            ></span>
-            <a href="https://html5up.net">HTML5 UP</a>
+
+              <ul class="icons">
+                <li>
+                  <a
+                    href="https://github.com/YifeiLiang-ComSci" target="_blank"
+                    class="icon brands fa-linkedin-in"
+                    ><span class="label">LinkedIn</span></a
+                  >
+                </li>
+                <li>
+                  <a
+                    href="https://github.com/YifeiLiang-ComSci" target="_blank"
+                    class="icon brands fa-github"
+                    ><span class="label">GitHub</span></a
+                  >
+                </li>
+              </ul>
+
           </p>
           <ul class="actions">
             <li>
@@ -594,24 +603,4 @@ print 'Sorted in ' + i + ' iterations.';</code></pre>
     <script src="assets/js/main.js"></script>
   </body>
 </html>
-<script>
-  // When the user scrolls the page, execute myFunction
-  window.onscroll = function () {
-    myFunction();
-  };
 
-  // Get the navbar
-  var navbar = document.getElementById("navbar");
-
-  // Get the offset position of the navbar
-  var sticky = navbar.offsetTop;
-
-  // Add the sticky class to the navbar when you reach its scroll position. Remove "sticky" when you leave the scroll position
-  function myFunction() {
-    if (window.pageYOffset >= sticky) {
-      navbar.classList.add("sticky");
-    } else {
-      navbar.classList.remove("sticky");
-    }
-  }
-</script>
