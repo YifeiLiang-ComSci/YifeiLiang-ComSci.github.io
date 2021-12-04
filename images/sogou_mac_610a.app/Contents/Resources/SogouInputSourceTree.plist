@@ -1,0 +1,710 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>/Library/Input Methods/SogouInput.app</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Info.plist</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/MacOS</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/MacOS/SogouInput</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/PkgInfo</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Correction.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/English.lproj</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/English.lproj/InfoPlist.strings</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/English.lproj/Localizable.strings</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/English.lproj/MainMenu.nib</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Fuzzy.dat</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/MoHuYin.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/PluginRecommend.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/ProtectConfig.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Punctures.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/ShuangPinSchemes</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/ShuangPinSchemes/ABC.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/ShuangPinSchemes/MS2003.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/ShuangPinSchemes/PinyinJiaJia.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/ShuangPinSchemes/Sogou.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/ShuangPinSchemes/XiaoHe.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/ShuangPinSchemes/ZiGuang.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/ShuangPinSchemes/ZiRanMa.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skin.dat</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/doubleLineImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/oh_pagedown_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/oh_pagedown_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/oh_pagedown_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/oh_pagedown_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/oh_pageup_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/oh_pageup_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/oh_pageup_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/oh_pageup_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/singleImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/skin.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/skin1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/skin1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/skin1_2.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/冰晶蓝/skin1_2@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/ah_custom05.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/ah_custom05@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/doubleLineImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pagedown_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pagedown_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pagedown_on6.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pagedown_on6@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pagedown_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pagedown_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pageup_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pageup_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pageup_on6.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pageup_on6@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pageup_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/oh_pageup_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/singleImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/skin.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/skin1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/skin1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/skin1_2.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/搜狗输入法默认皮肤/skin1_2@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/doubleLineImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/oh_pagedown_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/oh_pagedown_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/oh_pagedown_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/oh_pagedown_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/oh_pageup_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/oh_pageup_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/oh_pageup_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/oh_pageup_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/singleImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/skin.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/skin1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/skin1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/skin1_2.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰/skin1_2@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/doubleLineImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/oh_pagedown_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/oh_pagedown_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/oh_pagedown_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/oh_pagedown_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/oh_pageup_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/oh_pageup_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/oh_pageup_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/oh_pageup_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/singleImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/skin.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/skin1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/skin1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/skin1_2.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约灰2/skin1_2@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/doubleLineImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/oh_pagedown_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/oh_pagedown_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/oh_pagedown_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/oh_pagedown_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/oh_pageup_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/oh_pageup_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/oh_pageup_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/oh_pageup_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/singleImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/skin.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/skin1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/skin1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/skin1_2.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约白/skin1_2@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/doubleLineImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/oh_pagedown_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/oh_pagedown_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/oh_pagedown_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/oh_pagedown_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/oh_pageup_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/oh_pageup_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/oh_pageup_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/oh_pageup_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/singleImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/skin.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/skin1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/skin1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/skin1_1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/skin1_1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/skin1_2.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑/skin1_2@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/doubleLineImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/oh_pagedown_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/oh_pagedown_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/oh_pagedown_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/oh_pagedown_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/oh_pageup_off1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/oh_pageup_off1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/oh_pageup_on7.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/oh_pageup_on7@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/singleImage.png</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/skin.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/skin1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/skin1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/skin1_2.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/Skins/简约黑2/skin1_2@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/bubble.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/characters.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_1.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_10.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_2.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_3.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_4.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_5.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_6.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_7.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_8.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_animate_to_right_9.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_fail.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/cloud_mark_s.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/notification_BG.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/phrases.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/readme.txt</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/scd</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/scd/14108.scel</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/scdlist.ini</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_annex.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_core.bin</key>
+	<string>|0|420|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_eng.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_fixFirst.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_hz.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_ifk.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_py.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_pytip.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_quick.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_tra.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_url.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sgim_urlGuide.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/skin_bg_mask.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sogou.icns</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sogou_menu_icon.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/symbolset2.plist</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/sysmodel.bin</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/tip_icon_bj.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/tip_icon_qj.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/urlBaseG.txt</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/zh-Hans.lproj</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/Resources/zh-Hans.lproj/Localizable.strings</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Info.plist</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/MacOS</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/MacOS/SogouCharacterViewer</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/PkgInfo</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/About.nib</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/Localizable.strings</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/bar_sep.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/download_btn_1.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/download_btn_2.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/emoji.plist</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/en.lproj</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/en.lproj/Credits.rtf</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/en.lproj/InfoPlist.strings</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/en.lproj/MainMenu.nib</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/icon.icns</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/main_panel_arr.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/main_panel_arr@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/main_panel_back.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/menu_icon.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/nature.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/objects.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/people.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/places.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/sogou_about.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/sogou_menu.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/sogou_menu_btn_highlight.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/symb_hover_bg.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/symbol.plist</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/symbols.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/symbols_panel.html</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/tab_btn_bg.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouCharacterViewer.app/Contents/Resources/tip.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouHelper</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Info.plist</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/MacOS</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/MacOS/SogouPreference</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/PkgInfo</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/+active.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/+active@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/+hover.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/+hover@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/+normal.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/+normal@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/-active.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/-active@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/-hover.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/-hover@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/-no_enable.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/-no_enable@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/-normal.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/-normal@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/ErrorPageBackgroundTile.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/ErrorPageBackgroundTile@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/ErrorPageDividerLine.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/ErrorPageDividerLine@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/SGAbout.nib</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/SGPreferences.nib</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/SGUpdateDetail.nib</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/advanced.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/advanced@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/common.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/common@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/default_photo.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/default_photo@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/facade.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/facade@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/fail.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/fail@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/glass.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/glass@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/input.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/input@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/key1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/key1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/key2.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/key2@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/key3.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/key3@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/keypress.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/keypress@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/line.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/line@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/login1.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/login1@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/login2.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/login2@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/login3.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/login3@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/nomalBG.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/nomalBG@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/offline.html</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/picture.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/picture@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/right.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/right@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/shadow_traverse.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/shadow_traverse@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/shadow_vertical.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/shadow_vertical@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_item_off.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_item_off@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_item_on.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_item_on@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_item_tit_bg_on.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_item_tit_bg_on@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_more_active.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_more_active@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_more_hover.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_more_hover@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_more_normal.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_more_normal@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_pre_left_sep.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_pre_left_sep@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_pre_view_bottom.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/skin_pre_view_bottom@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/sogou.icns</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/sogou_about.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/sogou_about@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spabc.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spabc@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spadd.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spadd@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spmicrosoft.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spmicrosoft@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spsogou.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spsogou@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spxiaohe.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spxiaohe@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spziguang.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spziguang@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spziranma.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/spziranma@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/synchronize.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/synchronize@2x.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/zh-Hans.lproj</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/zh-Hans.lproj/Credits.rtf</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/zh-Hans.lproj/InfoPlist.strings</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/zh-Hans.lproj/Localizable.strings</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouPreference.app/Contents/Resources/zh-Hans.lproj/MainMenu.nib</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouProcessInfo</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouServices</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/Input Methods/SogouInput.app/Contents/SogouXdelta</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/LaunchAgents/com.sogou.SogouServices.plist</key>
+	<string>|0|420|root|wheel</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/Info.plist</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/MacOS</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/MacOS/SogouPreviewGenerator</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/MacOS/SogouSkinFileQuickLook</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/Resources</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/Resources/Localizable.strings</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/Resources/cloud_mark_s.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/Resources/en.lproj</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/Resources/en.lproj/InfoPlist.strings</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/Resources/not_available.tiff</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/Resources/not_support_preview.png</key>
+	<string>|0|509|root|staff</string>
+	<key>/Library/QuickLook/SogouSkinFileQuickLook.qlgenerator/Contents/Resources/not_support_thumbnail.tiff</key>
+	<string>|0|509|root|staff</string>
+</dict>
+</plist>
