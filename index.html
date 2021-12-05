@@ -67,40 +67,38 @@
       <!-- Section -->
       <section id="first">
         <header>
-          <h2>Admission To Texas A&M University</h2>
+          <h2>刷题之路</h2>
         </header>
         <div class="content">
           <p>
-           In 2018, I was admitted to Texas A&M University Engineering School to furthur my study in Computer Science.
+           原本是想做一个personal website的. 但是突发奇想,要不用来做记录我刷题的东西吧，感觉比做personal website 更有动力哈哈哈哈。
           </p>
-          <span class="image main"><img src="images/TexasA&M.jpeg" alt="" /></span>
+          <span class="image main"><img src="images/leetcodeMeme.png" alt="" /></span>
         </div>
       </section>
 
       <!-- Section -->
       <section>
         <header>
-          <h2>Feugiat consequat tempus ultrices</h2>
+          <h2>2021/12/4 Dynamic Programming Day</h2>
         </header>
         <div class="content">
           <p>
-            <strong>Etiam tristique libero</strong> eu nibh porttitor amet
-            fermentum. Nullam venenatis erat id vehicula ultrices sed ultricies
-            condimentum.
+            <strong>说实话</strong> 也是贼久没刷过DP的题了，先刷刷，有点小难，medium都做不出来
           </p>
-          <ul class="feature-icons">
-            <li class="icon solid fa-laptop">Consequat tempus</li>
-            <li class="icon solid fa-bolt">Etiam adipiscing</li>
-            <li class="icon solid fa-signal">Libero nullam</li>
-            <li class="icon solid fa-cog">Blandit condimentum</li>
-            <li class="icon solid fa-map-marker-alt">Lorem ipsum dolor</li>
-            <li class="icon solid fa-code">Nibh amet venenatis</li>
+          <ul>
+            <li>53. Maximum Subarray</li>
+            这题说实话虽然是个Easy 的题目但是的确是有点难，我甚至一开始不太懂为什么这个答案是DP，因为在我印象里DP应该是要用到array的。后来想了想的确是DP，因为DP的意思是会用到之前的result，其实本身不一定是需要用到array。
+            <br/>
+            这题，只需要遍历一边array然后keep track一下maximum array的 sum 。每加入一个element的时候都要记录如果这个element 可以让current sub array 变的比element 大还是比element 小。如果小的话，就新起一个subarray 重新开始记录。
+
+            <li>70. Climbing Stairs</li>
+            这题就是一道很typical的DP了,DP[i]=DP[i - 1] + DP[i - 2]因为你只能从前两步跳2过来或者前一步跳1过来。
+            <li>118. Pascal's Triangle</li>
+            这题也跟上一题差不多需要知道， DP[row][col] = DP[row - 1][col - 1] + DP[row - 1][col]
           </ul>
-          <p>
-            Vehicula ultrices sed ultricies condimentum. Magna sed etiam
-            consequat, et lorem adipiscing sed nulla. Volutpat nisl et tempus et
-            dolor libero, feugiat magna tempus, sed et lorem adipiscing.
-          </p>
+          <span class="image main"><img src="images/iloveDP.png" alt="" /></span>
+
         </div>
       </section>
 
